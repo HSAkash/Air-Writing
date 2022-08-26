@@ -51,3 +51,14 @@ The key point coordinates are the ones that have undergone the following preproc
 * Index finger for writing.Writing mode works only when index finger up and other fingers are down.
 * Index, Middle and Ring finger for erase mode.Erase mode works only when index, middle and ring finger are up and other are down.
 
+
+# Reference
+* [MediaPipe](https://mediapipe.dev/)
+* [Kazuhito00/mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)
+* [CV-ZONE](https://www.computervision.zone/courses/ai-virtual-painter/)
+
+# Author
+HSAkash
+* [Facebook](https://www.facebook.com/hemel.akash.7/)
+* [Kaggle](https://www.kaggle.com/hsakash)
+
