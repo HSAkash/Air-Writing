@@ -106,7 +106,7 @@ class AirWriting:
                     self.xp, self.yp = x2, y2
 
                 # finger 1 and 2 and 3 up (erase mode)
-                elif fingers[1] and fingers[2] and fingers[3]:
+                elif fingers[1] and fingers[2] and fingers[3] and not fingers[4] and not fingers[0]:
                     # get distance from index to middle fingers
                     length, frame, points = self.detector.findDistance(8, 12, frame, draw=False)
                     x2, y2 = lmdict[8]
